@@ -1,1 +1,2 @@
-# oop_lab1_task1
+# Sinkevich Kirill
+## Designer, 12 group
