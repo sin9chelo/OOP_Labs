@@ -1,2 +1,2 @@
 # Sinkevich Kirill
-## Designer, 12 group
+## Designer, 12-1group
